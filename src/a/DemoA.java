@@ -13,6 +13,11 @@ public class DemoA {
 	public static void add(int a, int b) {
 		System.out.println(a + b);
 	}
+
+	//Coming from GiHub
+	public static void divided(int a, int b) {
+		System.out.println(a / b);
+	}
 	
 
 }
